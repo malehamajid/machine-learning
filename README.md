@@ -46,16 +46,10 @@ The dataset contains medical attributes such as:
 
 ## Algorithms Used
 - Logistic Regression
-- Decision Tree
-- Random Forest
-- Support Vector Machine (SVM)
 
 ## Evaluation Metrics
 - Accuracy
 - Precision
-- Recall
-- F1-Score
-- Confusion Matrix
 
 ## Results
 The trained model successfully predicts the likelihood of heart disease based on patient health records and achieves competitive classification performance.
@@ -66,17 +60,6 @@ The trained model successfully predicts the likelihood of heart disease based on
 - Web-Based Prediction System
 - Real-Time Healthcare Integration
 
-## Installation
-
-```bash
-pip install -r requirements.txt
-```
-
-## Usage
-
-```bash
-python main.py
-```
 
 ## Author
 Maleha Majid
